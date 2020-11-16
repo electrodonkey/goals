@@ -12,9 +12,12 @@ All projects should be documented and public on github until end of 2021
 
 - [ ] Some sort of weather station with e-paper display
 - [ ] Some project with BLE
-- [ ] Some project with BLDC
+- [ ] Some project with BLDC - drone, or some kart for M
 
 ## Other topics
 
 - [ ] Create YT videos
-- [ ] Write a book
+- [ ] Write a technical book
+- [ ] Write a non technical book
+- [ ] Write a recipe book
+- [ ] Get some experience with ROS
