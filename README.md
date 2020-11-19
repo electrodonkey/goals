@@ -7,6 +7,7 @@ All projects should be documented and public on github until end of 2021
 - [ ] C++ 11 - one project
 - [ ] Qt5 - one project (with C++ or Python)
 - [ ] Android - make one app (with Java or Kotlin)
+- [ ] Some simulator with unity and C#
 
 ## My electronics hardware development goals
 
